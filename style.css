@@ -65,7 +65,7 @@ html, body{
 }
 
 .access-link{
-    border-bottom: .18rem solid var(--darkPurple);
+    border-bottom: .18rem solid var(--eucalyptus);
     cursor: pointer;
 }
 
